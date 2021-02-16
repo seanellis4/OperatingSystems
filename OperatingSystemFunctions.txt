@@ -1,1 +1,1 @@
-
+One of the main functions of an operating system is to manage memory. In the operating system there is both primary and secondary memory.  The operating system keeps track of every memory location.
