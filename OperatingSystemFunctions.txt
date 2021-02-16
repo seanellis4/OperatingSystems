@@ -1,3 +1,4 @@
 One of the main functions of an operating system is to manage memory. In the operating system there is both primary and secondary memory.  The operating system keeps track of every memory location.
 The operating system also manages the periferal devices like the printer, speakers or bluetooth devices.  It also manages the user interface which is the keyboard, mouse and monitor.
 Adding one more short sentence so i can do a meaningful note.   The operating system helps control the main CPU (Central processing Unit) to execute program instructions.
+The OS executes and provide services for application software.
